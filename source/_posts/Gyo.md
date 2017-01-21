@@ -5,7 +5,7 @@ tags:
 ---
 
 
-![](/images/gyo.png)
+![](http://www.derrickcraven.com/blog/images/gyo.png)
 
 I've been getting into reading manga lately. I think graphic novels in general get ghettoized and treated like they aren't as literary as other books. Consequently I want to read them to make sure no genre is getting marginalized.
 
